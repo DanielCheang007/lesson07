@@ -1,0 +1,15 @@
+.todo {
+}
+
+.todo--done {
+  text-decoration: line-through;
+}
+
+.container {
+  max-width: 960px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
