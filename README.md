@@ -1,2 +1,3 @@
-# lesson07
-Created with CodeSandbox
+# Todo App
+
+In browser Vue.js(CDN) demo.
